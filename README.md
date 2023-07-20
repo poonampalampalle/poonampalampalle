@@ -17,4 +17,5 @@ Mobile Friendly
 
 Screenshots
 
-![istockphoto-1292015292-1024x1024](https://github.com/poonampalampalle/poonampalampalle/assets/126842277/f1d041ec-2bce-420c-87f1-94218542bbb4)
+![screenshot](https://github.com/poonampalampalle/poonampalampalle/assets/126842277/7ee04276-78c3-4cf9-9e21-e5fd6796d9f3)
+
