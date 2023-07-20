@@ -15,12 +15,6 @@ Authentication using JWT tokens
 Minimal UI
 Mobile Friendly
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Screenshots
 
-<!---
-poonampalampalle/poonampalampalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![istockphoto-1292015292-1024x1024](https://github.com/poonampalampalle/poonampalampalle/assets/126842277/f1d041ec-2bce-420c-87f1-94218542bbb4)
