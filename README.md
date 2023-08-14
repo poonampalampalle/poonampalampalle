@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @poonampalampalle
-- i am now in a B Tech final year CSE
-- seeking the good opportunities in IT sector
+- i am a B.Tech CSE Passout 2023 Fresher
+- seeking the good opportunities in IT sector For  Full stack Web Devloper
